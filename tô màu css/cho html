@@ -1,0 +1,36 @@
+.class-1{
+    color: red;
+}
+
+.class-2.class-3{
+    color: green;
+}
+
+.class-5{
+    color: fuchsia;
+}
+
+div + .class-6 {
+    color : green;
+}
+
+h3, h4{
+    color: brown;
+    font-size: 20px;
+}
+
+.list li{
+    color: lightskyblue;
+}
+
+.list > li{
+    color: fuchsia;
+}
+
+.class-9 + p{
+    color: goldenrod;
+}
+
+.class-10 ~ p{
+    color: green;
+}
